@@ -1,3 +1,4 @@
+print"Loaded"
 while wait(0.1) do
     if game:IsLoaded() then
         local hiveClaimed = false
